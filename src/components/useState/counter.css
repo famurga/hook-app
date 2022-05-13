@@ -1,0 +1,17 @@
+body {
+    padding: 70px;
+}
+button{
+    
+    margin: 10px;
+    padding: 10px;
+    transition-duration: 0.4s;
+    border-color: aqua;
+}
+.bt:hover{
+   background-color: aqua;
+   color: blueviolet;
+}
+.inputtext{
+    margin-right: 20px;
+}
